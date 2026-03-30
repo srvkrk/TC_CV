@@ -1,0 +1,22 @@
+Subject: Application for Teamcenter Developer
+
+
+Dear Sir/Madam,
+
+I am writing to express my interest in the Teamcenter Developer position at your organization, With over four years of experience delivering end-to-end PLM solutions using Siemens Teamcenter and three years in full stack development, 
+I bring a strong technical foundation and proven expertise in enterprise-scale implementations.
+
+In my current role at Tata Technologies Ltd, I have led critical projects including data migration from Teamcenter Engineering to Teamcenter Unified Architecture, integration of Teamcenter with SAP S/4HANA using RESTful APIs, and dashboarding modularity data in Active Workspace. 
+These projects required deep knowledge of ITK, RAC, BMIDE, and AWC customization, as well as proficiency in SOAP and REST services for seamless system integration. 
+My work has consistently ensured data integrity, optimized performance, and aligned solutions with business objectives.
+
+Beyond technical expertise, I am a collaborative team player who thrives in cross-functional environments.
+My ability to troubleshoot complex issues, design scalable solutions, and document best practices has been recognized with awards such as "Best Project Team of the Year" and a copyright application for innovative work in AWC modularity.
+
+I am excited about the opportunity to contribute my skills in PLM-ERP integration, data migration, and Active Workspace customization to your team. 
+I am confident that my background and passion for delivering robust solutions make me a strong fit for this role.
+
+Thank you for considering my application. I look forward to the possibility of discussing how my experience can add value to your organization.
+
+Sincerely,
+Sourav Karak

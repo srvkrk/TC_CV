@@ -1,0 +1,27 @@
+Subject: Application for Teamcenter Developer
+
+
+Dear Sir/Madam,
+
+I am writing to express my interest in the Teamcenter Developer position at your organization, With over seven years of experience delivering end-to-end Product Lifecycle Management (PLM) solutions using Siemens Teamcenter, 
+I bring a strong background in customization, integration, and data migration that closely aligns with your requirements.
+
+In my current role at Tata Technologies Ltd, I have led key initiatives, including the migration of data from Teamcenter Engineering (TCE) to Teamcenter Unified Architecture (TCUA), ensuring seamless transitions and maintaining data integrity. 
+I have also designed and implemented automated integrations between Teamcenter and SAP S/4HANA using RESTful APIs and cURL, enabling real-time synchronization of BOMs and material master data. 
+Additionally, I developed interactive dashboards in Active Workspace (AWC) to provide actionable insights for both engineering and management teams.
+
+My expertise includes ITK, RAC, BMIDE, and Active Workspace customization, along with integration experience involving enterprise systems such as SAP and CATIA V6. 
+I am proficient in C, C++, Java, and modern web technologies, and I possess strong knowledge of database systems and scripting for automation. 
+I am also experienced in troubleshooting, performance optimization, and collaborating with cross-functional teams to deliver high-quality, business-aligned solutions.
+
+Beyond technical skills, I am recognized for my dedication and agility, having received awards such as "Best Project Team of the Year" at AB Softech and a notarized copyright application for CV Modularity dashboard at Tata Motors. 
+These achievements reflect my commitment to innovation, teamwork, and delivering impactful solutions.
+
+I am eager to bring my expertise and passion for PLM systems to your organization, contributing to your ongoing success and growth. 
+I welcome the opportunity to discuss how my background aligns with your needs and how I can add value to your team.
+
+Thank you for considering my application.
+
+
+Sincerely,
+Sourav Karak
